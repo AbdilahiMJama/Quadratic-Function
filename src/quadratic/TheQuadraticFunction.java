@@ -1,5 +1,11 @@
 package quadratic;
 
+/**
+ * This is a representation of a Quadratic Function that takes the shape
+ * of f(x) = ax^2 + bx + c where a,b and c are Real numbers and a is not equal to
+ * zero.
+ * @author Abdilahi MJ
+ */
 public class TheQuadraticFunction {
     /**
      * The first unknown variable a.
