@@ -29,6 +29,9 @@ public class Main {
         System.out.println(quadraticFunction.extremePoint());
         System.out.println(quadraticFunction.shiftedAlongXBy(1));
         System.out.println(quadraticFunction.shiftedAlongYBy(1));
+        System.out.println(quadraticFunction.getA());
+        System.out.println(quadraticFunction.getB());
+        System.out.println(quadraticFunction.getC());
 
     }
 }
