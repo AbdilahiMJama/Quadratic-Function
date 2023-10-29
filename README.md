@@ -12,6 +12,3 @@
 >- It also shows the result of the function along an upward vertical shift.
 >- It also shows the result of the function along a horizontal shift to the right.
 >- Finally, a *toString()* method to return a string representation in the form of a*x^2 + bx + c. 
-
-### CONTACT
-> abdijamzilan@gmail.com
